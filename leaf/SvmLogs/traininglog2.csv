@@ -1,0 +1,11 @@
+0.641791044776119,800,200,'balanced',0,'ovo',3,'scale','rbf',-1,True,0,True,0.001,False
+0.626865671641791,600,200,'balanced',0,'ovo',3,'scale','rbf',-1,True,0,True,0.001,False
+0.611940298507463,500,200,'balanced',0,'ovo',3,'scale','rbf',-1,True,0,True,0.001,False
+0.611940298507463,500,200,'balanced',0,'ovo',3,'auto','rbf',-1,True,0,True,0.001,False
+0.044776119402985,500,200,'balanced',0,'ovo',3,'auto','sigmoid',-1,True,0,True,0.001,False
+0.044776119402985,500,200,'balanced',0.32,'ovo',3,'auto','sigmoid',-1,True,0,True,0.001,False
+0,500,200,'balanced',10.32,'ovo',3,'auto','sigmoid',-1,True,0,True,0.001,False
+0.6417910447761194,732,500,'balanced',0,'ovo',0,'scale','rbf',-1,True,0,True,0.001,False
+0.6417910447761194,732,500,'balanced',0,'ovo',0,'scale','rbf',-1,True,0,True,0.001,False
+0.6417910447761194,732,500,'balanced',0,'ovo',0,'scale','rbf',-1,True,0,True,0.001,False
+0.6417910447761194,732,500,'balanced',0,'ovo',0,'scale','rbf',-1,True,0,True,0.001,False
