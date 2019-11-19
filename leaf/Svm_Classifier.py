@@ -2,7 +2,7 @@ import pandas
 from sklearn.metrics import accuracy_score
 from sklearn.svm import SVC
 
-best_svm_model = None
+best_SGD_model = None
 highest_score = 0
 
 
@@ -24,7 +24,7 @@ def validate(classifier, df_validate):
     global highest_score
     if (accuracy > highest_score):
         highest_score = accuracy
-        global best_svm_model
+        global best_SGD_model
         best_svm_model = classifier
     return accuracy, predicted_values  # returns score plus the predicted values
 
